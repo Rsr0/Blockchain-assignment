@@ -1,0 +1,36 @@
+ASSGNMENT - 1  
+
+1.    What is your understanding of blockchain?
+Ans.  -Blockchain is a decentralized & distributed system which uses the cryptography technquies to store the data in the chains of blocks.   
+      -It is a constantly growing ledger (database) that keeps a permanent record of all the transactions.
+      -It's more secure, immutable, verifiable & tamper-proof than traditional method of transaction.
+ 
+2.  What is the core problem block chain trying to solve? 
+Ans.  *Data insecurity
+      *Authentication
+      *Dependency on Centralized System
+      *Data manipulation
+      
+3.   What are the few features which bock chain will give you?
+Ans.  *Decentralisation
+      *Data security
+      *Verifiablity
+      *Data transparency
+      *Tamper-Proof 
+      *Immutable
+      
+4.   What all things does a block contain?
+Ans. *Block number
+     *Transaction / data records
+     *Previous Block Signature
+     *Mining key
+ 
+5.  How is verifiability of blockchain is been attained?
+Ans. Blockchain is based on distributed database & it's rarely possible to change the data on all the systems at a same time within 10 seconds.
+     If one's Security key is different than others that means there is some error in data record on that particular system and 
+     it's get improved or corrected with the help of others system.
+    
+      
+        
+      
+       
